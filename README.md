@@ -3,7 +3,7 @@
 A machine learning model trained to recognize specific objects using Google's Teachable Machine. 
 
 ## Live Model
-[Insert your Teachable Machine Shareable Link Here]
+[Teachable Machine Model - Try it here!](https://teachablemachine.withgoogle.com/models/bUhZAKwwW/)
 
 ## Visual Preview
 ![Object Detection Preview](./screenshot.png)
