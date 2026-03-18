@@ -6,7 +6,8 @@ A machine learning model trained to recognize specific objects using Google's Te
 ## Live Model
 [Teachable Machine Model - Try it here!](https://teachablemachine.withgoogle.com/models/qlqjwznH-/)
 
-
+## Visual Preview
+![Object Detection Preview](./screenshot.png)
 
 ## Overview
 This project demonstrates the training of a custom image classification model. The model was trained in the browser to detect and distinguish between different objects. 
