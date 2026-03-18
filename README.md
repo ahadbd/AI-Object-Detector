@@ -2,7 +2,7 @@
 
 A machine learning model trained to recognize specific objects using Google's Teachable Machine. 
 
-## Live Model
+
 ## Live Model
 [Teachable Machine Model - Try it here!](https://teachablemachine.withgoogle.com/models/qlqjwznH-/)
 
